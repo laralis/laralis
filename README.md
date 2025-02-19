@@ -1,13 +1,9 @@
 ### Olá! Eu sou Larissa Lisboa
 
 
-- 💼 Atualmente trabalhando como Desenvolvedora front-end
-- 🖥️ Estudando React, Next e Typescript
+- 💼 Atualmente trabalhando como Desenvolvedora front-end na Youcom
 
-<div style="display:inline_block"><br>
 
-  <img align="center"  src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,next">
-</div>
 
 ##
 
