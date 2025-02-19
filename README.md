@@ -6,7 +6,7 @@
 
 <div style="display:inline_block"><br>
 
-  <img align="center"  src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,styledcomponents,js,ts,next">
+  <img align="center"  src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,next">
 </div>
 
 ##
